@@ -4,7 +4,7 @@
 
 This code package is related to the follow scientific articles:
 
-- G. Pastor, I. Mora-Jiménez, A.J. Caamaño, and R. Jäntti, “Asymptotic Expansions for Heavy-tailed Data”, Submitted to IEEE Signal Process. Lett.
+- G. Pastor, I. Mora-Jiménez, A.J. Caamaño, and R. Jäntti, “Asymptotic Expansions for Heavy-tailed Data”, Submitted to IEEE Signal Process. Lett., 2015
 - G. Pastor, I. Mora-Jiménez, A.J. Caamaño, and R. Jäntti, “Log-Cumulants-based Edgeworth Expansion for Skew-Distributed Aggregate Interference”, IEEE Proc. of the 11th ISWCS, Barcelona, Spain, Aug 2014 
 
 The package contains Matlab codes that compute the Edgeworth and Cornish-Fisher expansions used in the above articles. 
